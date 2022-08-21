@@ -1,9 +1,9 @@
 # project one ignore files listed below:
-/node_modules
-.env 
-/config
-/views
-/models
+../express_pjct_1/node_modules
+../express_pjct_1/.env 
+../express_pjct_1/config
+../express_pjct_1/views
+..express_pjct_1/models
 
 # project two ignore files listed below:
 ../express_pjct_2/node_modules
