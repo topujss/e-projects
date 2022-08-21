@@ -1,0 +1,11 @@
+# project one ignore files listed below:
+/node_modules
+.env 
+/config
+/views
+/models
+
+# project two ignore files listed below:
+../express_pjct_2/node_modules
+../express_pjct_2/public/zItalyFood/font-awesome
+../express_pjct_2/package-lock.json
